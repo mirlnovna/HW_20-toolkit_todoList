@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW_20-toolkit_todoList/static/css/main.073c9b0a.css",
+    "main.js": "/HW_20-toolkit_todoList/static/js/main.4520a6bd.js",
+    "index.html": "/HW_20-toolkit_todoList/index.html",
+    "main.073c9b0a.css.map": "/HW_20-toolkit_todoList/static/css/main.073c9b0a.css.map",
+    "main.4520a6bd.js.map": "/HW_20-toolkit_todoList/static/js/main.4520a6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4520a6bd.js"
+  ]
+}
